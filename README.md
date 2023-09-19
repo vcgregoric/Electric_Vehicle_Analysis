@@ -3,7 +3,7 @@
 **September 19, 2023**
 
 ## Overview
-This project is an exploration of how electric vehicles (EV) have changed over the past decade. It is a personal project I started as an application of the Tableau skills I learned while completing the Business Intelligence Data Analyst career path on Codecademy.com. I've been seeing a lot more EVs and EV charging stations recently, and I'm passionate about sustainability, so I thought this would make an interesting data analysis project. The final Tableau project can be found online [here](https://public.tableau.com/app/profile/vcgregoric/viz/ElectricVehiclesontheRise/ElectricVehicleDashboard).
+This project is an exploration of how electric vehicles (EV) have changed over the past decade. It is a personal project I started as an application of the Tableau skills I learned while completing the Business Intelligence Data Analyst career path on Codecademy.com. I've been seeing a lot more EVs and EV charging stations recently, and I'm passionate about sustainability, so I thought this would make an interesting data analysis project. The final Tableau project can be found on Tableau Public [here](https://public.tableau.com/app/profile/vcgregoric/viz/ElectricVehiclesontheRise/ElectricVehicleDashboard).
 
 The data for this projects comes from the following sources:
 - [Argonne National Laboratory Light Duty Electric Drive Vehicles Monthly Sales Updates](https://www.anl.gov/esia/light-duty-electric-drive-vehicles-monthly-sales-updates)
