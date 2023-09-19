@@ -1,0 +1,503 @@
+Year,Model,Config,MPGe_combined,MPGe_city,MPGe_highway,price_low,price_high,range_in_miles
+2011,2011 BMW Active E,"Automatic (A1), Electricity",102,107,96,,,94
+2011,2011 Nissan Leaf,"Automatic (A1), Electricity",99,106,92,32780.0,32780.0,73
+2011,2011 smart fortwo electric drive cabriolet,"Automatic (A1), Electricity",87,94,79,,,63
+2011,2011 smart fortwo electric drive coupe,"Automatic (A1), Electricity",87,94,79,,,63
+2012,2012 Mitsubishi i-MiEV,"Automatic (A1), Electricity",112,126,99,29125.0,31125.0,62
+2012,2012 Ford Focus Electric,"Automatic (variable gear ratios), Electricity",105,110,99,39200.0,39200.0,76
+2012,2012 Nissan Leaf,"Automatic (A1), Electricity",99,106,92,35200.0,37250.0,73
+2012,2012 Tesla Model S,"Automatic (A1), Electricity",89,88,90,59900.0,105400.0,265
+2012,2012 Toyota RAV4 EV,"Automatic (variable gear ratios), Electricity",76,78,74,49800.0,49800.0,103
+2012,2012 CODA Automotive CODA,"Automatic (A1), Electricity",73,77,68,,,88
+2012,2012 Azure Dynamics Transit Connect Electric Van,"Automatic (A1), Electricity",62,62,62,,,56
+2012,2012 Azure Dynamics Transit Connect Electric Wagon,"Automatic (A1), Electricity",62,62,62,,,56
+2012,2012 BYD e6,"Automatic (A1), Electricity",62,60,64,,,122
+2013,2013 Scion iQ EV,"Automatic (variable gear ratios), Electricity",121,138,105,,,38
+2013,2013 Honda Fit EV,"Automatic (A1), Electricity",118,132,105,36625.0,36625.0,82
+2013,2013 Fiat 500e,"Automatic (A1), Electricity",116,122,108,31800.0,31800.0,87
+2013,2013 Nissan Leaf,"Automatic (A1), Electricity",115,129,102,28800.0,34840.0,75
+2013,2013 Mitsubishi i-MiEV,"Automatic (A1), Electricity",112,126,99,,,62
+2013,2013 smart fortwo electric drive convertible,"Automatic (A1), Electricity",107,122,93,28000.0,28000.0,68
+2013,2013 smart fortwo electric drive coupe,"Automatic (A1), Electricity",107,122,93,25000.0,25000.0,68
+2013,2013 Ford Focus Electric,"Automatic (A1), Electricity",105,110,99,39200.0,39200.0,76
+2013,2013 Tesla Model S (60 kW-hr battery pack),"Automatic (A1), Electricity",95,94,97,69900.0,69900.0,208
+2013,2013 Tesla Model S (40 kW-hr battery pack),"Automatic (A1), Electricity",94,93,96,,,139
+2013,2013 Tesla Model S (85 kW-hr battery pack),"Automatic (A1), Electricity",89,88,90,94900.0,94900.0,265
+2013,2013 Toyota RAV4 EV,"Automatic (variable gear ratios), Electricity",76,78,74,49800.0,49800.0,103
+2013,2013 CODA Automotive CODA,"Automatic (A1), Electricity",73,77,68,37250.0,37250.0,88
+2013,2013 BYD e6,"Automatic (A1), Electricity",63,61,65,,,127
+2014,2014 BMW i3 BEV,"Automatic (A1), Electricity",124,137,111,41350.0,41350.0,81
+2014,2014 Chevrolet Spark EV,"Automatic (A1), Electricity",119,128,109,26685.0,27010.0,82
+2014,2014 Honda Fit EV,"Automatic (A1), Electricity",118,132,105,36625.0,36625.0,82
+2014,2014 Fiat 500e,"Automatic (A1), Electricity",116,122,108,31800.0,31800.0,87
+2014,2014 Nissan Leaf,"Automatic (A1), Electricity",114,126,101,28980.0,35020.0,84
+2014,2014 Mitsubishi i-MiEV,"Automatic (A1), Electricity",112,126,99,22995.0,22995.0,62
+2014,2014 smart fortwo electric drive convertible,"Automatic (A1), Electricity",107,122,93,28000.0,28000.0,68
+2014,2014 smart fortwo electric drive coupe,"Automatic (A1), Electricity",107,122,93,25000.0,25000.0,68
+2014,2014 Ford Focus Electric,"Automatic (A1), Electricity",105,110,99,29170.0,29170.0,76
+2014,2014 Tesla Model S (60 kW-hr battery pack),"Automatic (A1), Electricity",95,94,97,69900.0,69900.0,208
+2014,2014 Tesla Model S (85 kW-hr battery pack),"Automatic (A1), Electricity",89,88,90,79900.0,104500.0,265
+2014,2014 Tesla Model S AWD (85 kW-hr battery pack),"Automatic (A1), Electricity",89,86,94,79900.0,79900.0,242
+2014,2014 Mercedes-Benz B-Class Electric Drive,"Automatic (A1), Electricity",84,85,83,41450.0,41450.0,87
+2014,2014 Toyota RAV4 EV,"Automatic (variable gear ratios), Electricity",76,78,74,49800.0,49800.0,103
+2014,2014 BYD e6,"Automatic (A1), Electricity",63,61,65,,,127
+2015,2015 BMW i3 BEV,"Automatic (A1), Electricity",124,137,111,42400.0,42400.0,81
+2015,2015 Chevrolet Spark EV,"Automatic (A1), Electricity",119,128,109,25170.0,25560.0,82
+2015,2015 Volkswagen e-Golf,"Automatic (A1), Electricity",116,126,105,33450.0,35445.0,83
+2015,2015 Fiat 500e,"Automatic (A1), Electricity",116,122,108,31800.0,31800.0,87
+2015,2015 Nissan Leaf,"Automatic (A1), Electricity",114,126,101,29010.0,35120.0,84
+2015,2015 smart fortwo electric drive convertible,"Automatic (A1), Electricity",107,122,93,28000.0,28000.0,68
+2015,2015 smart fortwo electric drive coupe,"Automatic (A1), Electricity",107,122,93,25000.0,25000.0,68
+2015,2015 Kia Soul Electric,"Automatic (A1), Electricity",105,120,92,33700.0,35700.0,93
+2015,2015 Ford Focus Electric,"Automatic (A1), Electricity",105,110,99,29170.0,29170.0,76
+2015,2015 Tesla Model S AWD - 70D,"Automatic (A1), Electricity",101,101,102,75000.0,75000.0,240
+2015,2015 Tesla Model S AWD - 85D,"Automatic (A1), Electricity",100,95,106,85000.0,85000.0,270
+2015,2015 Tesla Model S AWD - 90D,"Automatic (A1), Electricity",100,95,106,,,270
+2015,2015 Tesla Model S (60 kW-hr battery pack),"Automatic (A1), Electricity",95,94,97,69900.0,69900.0,208
+2015,2015 Tesla Model S AWD - P85D,"Automatic (A1), Electricity",93,89,98,105000.0,105000.0,253
+2015,2015 Tesla Model S AWD - P90D,"Automatic (A1), Electricity",93,89,98,,,253
+2015,2015 Tesla Model S (85 kW-hr battery pack),"Automatic (A1), Electricity",89,88,90,80000.0,80000.0,265
+2015,2015 Tesla Model S (90 kW-hr battery pack),"Automatic (A1), Electricity",89,88,90,,,265
+2015,2015 Mercedes-Benz B-Class Electric Drive,"Automatic (A1), Electricity",84,85,82,41450.0,41450.0,87
+2016,2016 BMW i3 BEV,"Automatic (A1), Electricity",124,137,111,42400.0,42400.0,81
+2016,2016 Chevrolet Spark EV,"Automatic (A1), Electricity",119,128,109,25120.0,25510.0,82
+2016,2016 Volkswagen e-Golf,"Automatic (A1), Electricity",116,126,105,28995.0,35595.0,83
+2016,2016 Nissan Leaf (24 kW-hr battery pack),"Automatic (A1), Electricity",114,126,101,29010.0,36790.0,84
+2016,2016 Mitsubishi i-MiEV,"Automatic (A1), Electricity",112,126,99,22995.0,22995.0,62
+2016,2016 Nissan Leaf (30 kW-hr battery pack),"Automatic (A1), Electricity",112,124,101,29010.0,36790.0,107
+2016,2016 Fiat 500e,"Automatic (A1), Electricity",112,121,103,31800.0,31800.0,84
+2016,2016 smart fortwo electric drive convertible,"Automatic (A1), Electricity",107,122,93,,,68
+2016,2016 smart fortwo electric drive coupe,"Automatic (A1), Electricity",107,122,93,,,68
+2016,2016 Kia Soul Electric,"Automatic (A1), Electricity",105,120,92,31950.0,35950.0,93
+2016,2016 Ford Focus Electric,"Automatic (A1), Electricity",105,110,99,29170.0,29170.0,76
+2016,2016 Tesla Model S AWD - 60D,"Automatic (A1), Electricity",104,101,107,71000.0,71000.0,218
+2016,2016 Tesla Model S AWD - 75D,"Automatic (A1), Electricity",103,102,105,79500.0,79500.0,259
+2016,2016 Tesla Model S AWD - 90D,"Automatic (A1), Electricity",103,101,107,89500.0,89500.0,294
+2016,2016 Tesla Model S AWD - 70D,"Automatic (A1), Electricity",101,101,102,,,240
+2016,2016 Tesla Model S AWD - 85D,"Automatic (A1), Electricity",100,95,106,,,270
+2016,2016 Tesla Model S (60 kW-hr battery pack),"Automatic (A1), Electricity",99,98,101,66000.0,66000.0,210
+2016,2016 Tesla Model S (75 kW-hr battery pack),"Automatic (A1), Electricity",98,97,100,74500.0,74500.0,249
+2016,2016 Tesla Model S AWD - P100D,"Automatic (A1), Electricity",98,92,105,134500.0,134500.0,315
+2016,2016 Tesla Model S AWD - P90D,"Automatic (A1), Electricity",95,91,100,112000.0,112000.0,270
+2016,2016 Tesla Model X AWD - 75D,"Automatic (A1), Electricity",93,91,95,83000.0,83000.0,238
+2016,2016 Tesla Model X AWD - 60D,"Automatic (A1), Electricity",93,91,94,,,200
+2016,2016 Tesla Model S AWD - P85D,"Automatic (A1), Electricity",93,89,98,,,253
+2016,2016 Tesla Model X AWD - 90D,"Automatic (A1), Electricity",92,90,94,95500.0,95500.0,257
+2016,2016 Tesla Model X AWD - P90D,"Automatic (A1), Electricity",89,89,90,115500.0,115500.0,250
+2016,2016 Tesla Model S (70 kW-hr battery pack),"Automatic (A1), Electricity",89,88,90,70000.0,70000.0,234
+2016,2016 Tesla Model S (85 kW-hr battery pack),"Automatic (A1), Electricity",89,88,90,,,265
+2016,2016 Tesla Model S (90 kW-hr battery pack),"Automatic (A1), Electricity",89,88,90,,,265
+2016,2016 Tesla Model X AWD - P100D,"Automatic (A1), Electricity",86,81,92,136900.0,159000.0,289
+2016,2016 Mercedes-Benz B250e,"Automatic (A1), Electricity",84,85,82,41450.0,41450.0,87
+2016,2016 BYD e6,"Automatic (A1), Electricity",72,73,71,,,187
+2017,2017 Hyundai Ioniq Electric,"Automatic (A1), Electricity",136,150,122,29500.0,32500.0,124
+2017,2017 Tesla Model 3 Long Range,"Automatic (A1), Electricity",126,131,120,44000.0,44000.0,310
+2017,2017 BMW i3 BEV (60  Amp-hour battery),"Automatic (A1), Electricity",124,137,111,42400.0,42400.0,81
+2017,2017 Chevrolet Bolt EV,"Automatic (A1), Electricity",119,128,110,36620.0,40905.0,238
+2017,2017 Volkswagen e-Golf,"Automatic (A1), Electricity",119,126,111,30495.0,36995.0,125
+2017,2017 BMW i3 BEV (94 Amp-hour battery),"Automatic (A1), Electricity",118,129,106,44450.0,44450.0,114
+2017,2017 Honda Clarity EV,"Automatic (A1), Electricity",114,126,103,,,89
+2017,2017 Nissan Leaf,"Automatic (A1), Electricity",112,124,101,30680.0,36790.0,107
+2017,2017 Fiat 500e,"Automatic (A1), Electricity",112,121,103,31800.0,31800.0,84
+2017,2017 Mitsubishi i-MiEV,"Automatic (A1), Electricity",112,121,102,,,59
+2017,2017 smart fortwo electric drive coupe,"Automatic (A1), Electricity",108,124,94,23800.0,26640.0,58
+2017,2017 Ford Focus Electric,"Automatic (A1), Electricity",107,118,96,29120.0,29120.0,115
+2017,2017 Kia Soul Electric,"Automatic (A1), Electricity",105,120,92,32250.0,35950.0,93
+2017,2017 Tesla Model S AWD - 90D,"Automatic (A1), Electricity",104,102,107,78200.0,78200.0,294
+2017,2017 Tesla Model S AWD - 60D,"Automatic (A1), Electricity",104,101,107,73000.0,73000.0,218
+2017,2017 Tesla Model S AWD - 75D,"Automatic (A1), Electricity",103,102,105,74500.0,74500.0,259
+2017,2017 smart fortwo electric drive convertible,"Automatic (A1), Electricity",102,112,91,28000.0,29000.0,57
+2017,2017 Tesla Model S AWD - 100D,"Automatic (A1), Electricity",102,101,102,92500.0,92500.0,335
+2017,2017 Tesla Model S (60 kW-hr battery pack),"Automatic (A1), Electricity",99,98,101,68000.0,68000.0,210
+2017,2017 Tesla Model S (75 kW-hr battery pack),"Automatic (A1), Electricity",98,97,100,69500.0,69500.0,249
+2017,2017 Tesla Model S AWD - P100D,"Automatic (A1), Electricity",98,92,105,134500.0,134500.0,315
+2017,2017 Tesla Model S AWD - P90D,"Automatic (A1), Electricity",95,92,100,87500.0,87500.0,270
+2017,2017 Tesla Model X AWD - 75D,"Automatic (A1), Electricity",93,91,95,82500.0,82500.0,238
+2017,2017 Tesla Model X AWD - 60D,"Automatic (A1), Electricity",93,91,94,100150.0,100150.0,200
+2017,2017 Tesla Model X AWD - 90D,"Automatic (A1), Electricity",92,90,94,93500.0,93500.0,257
+2017,2017 Tesla Model X AWD - P90D,"Automatic (A1), Electricity",89,89,90,117150.0,143950.0,250
+2017,2017 Tesla Model X AWD - 100D,"Automatic (A1), Electricity",87,86,89,,,295
+2017,2017 Tesla Model X AWD - P100D,"Automatic (A1), Electricity",86,81,92,135500.0,135500.0,289
+2017,2017 Mercedes-Benz B250e,"Automatic (A1), Electricity",84,85,82,,,87
+2017,2017 BYD e6,"Automatic (A1), Electricity",72,73,71,,,187
+2018,2018 Hyundai Ioniq Electric,"Automatic (A1), Electricity",136,150,122,29500.0,36000.0,124
+2018,2018 Tesla Model 3 Long Range,"Automatic (A1), Electricity",130,136,123,49000.0,49000.0,310
+2018,2018 Tesla Model 3 Mid Range,"Automatic (A1), Electricity",123,128,117,,,260
+2018,2018 Chevrolet Bolt EV,"Automatic (A1), Electricity",119,128,110,,,238
+2018,2018 Volkswagen e-Golf,"Automatic (A1), Electricity",119,126,111,30495.0,37345.0,125
+2018,2018 BMW i3 (94Ah),"Automatic (A1), Electricity",118,129,106,44450.0,44450.0,114
+2018,2018 Tesla Model 3 Long Range  AWD,"Automatic (A1), Electricity",116,120,112,55000.0,55000.0,310
+2018,2018 Tesla Model 3 Long Range  AWD Performance,"Automatic (A1), Electricity",116,120,112,64000.0,64000.0,310
+2018,2018 Honda Clarity EV,"Automatic (A1), Electricity",114,126,103,36620.0,36620.0,89
+2018,2018 BMW i3s (94Ah),"Automatic (A1), Electricity",112,126,99,47650.0,47650.0,107
+2018,2018 Nissan Leaf,"Automatic (A1), Electricity",112,125,100,29990.0,36200.0,151
+2018,2018 Fiat 500e,"Automatic (A1), Electricity",112,121,103,32995.0,32995.0,84
+2018,2018 smart fortwo electric drive coupe,"Automatic (A1), Electricity",108,124,94,23800.0,26640.0,58
+2018,2018 Kia Soul Electric,"Automatic (A1), Electricity",108,124,93,,,111
+2018,2018 Ford Focus Electric,"Automatic (A1), Electricity",107,118,96,29120.0,29120.0,115
+2018,2018 Tesla Model S 75D,"Automatic (A1), Electricity",103,102,105,74500.0,74500.0,259
+2018,2018 smart fortwo electric drive convertible,"Automatic (A1), Electricity",102,112,91,28100.0,29100.0,57
+2018,2018 Tesla Model S 100D,"Automatic (A1), Electricity",102,101,102,94000.0,94000.0,335
+2018,2018 Tesla Model S 75kWh,"Automatic (A1), Electricity",98,97,100,74500.0,74500.0,249
+2018,2018 Tesla Model S P100D,"Automatic (A1), Electricity",98,92,105,135000.0,135000.0,315
+2018,2018 Tesla Model X 75D,"Automatic (A1), Electricity",93,91,95,79500.0,79500.0,238
+2018,2018 Tesla Model X 100D,"Automatic (A1), Electricity",87,86,89,96000.0,96000.0,295
+2018,2018 Tesla Model X P100D,"Automatic (A1), Electricity",85,83,89,140000.0,140000.0,289
+2018,2018 BYD e6,"Automatic (A1), Electricity",72,73,71,,,187
+2019,2019 Hyundai Ioniq Electric,"Automatic (A1), Electricity",136,150,122,30315.0,36815.0,124
+2019,2019 Tesla Model 3 Standard Range Plus,"Automatic (A1), Electricity",133,140,124,39490.0,39490.0,240
+2019,2019 Tesla Model 3 Standard Range,"Automatic (A1), Electricity",131,138,124,35000.0,35000.0,220
+2019,2019 Tesla Model 3 Long Range,"Automatic (A1), Electricity",130,136,123,43000.0,47990.0,310
+2019,2019 Tesla Model 3 Mid Range,"Automatic (A1), Electricity",123,128,117,44000.0,44000.0,264
+2019,2019 Hyundai Kona Electric,"Automatic (A1), Electricity",120,132,108,36950.0,44900.0,258
+2019,2019 Chevrolet Bolt EV,"Automatic (A1), Electricity",119,128,110,36620.0,41020.0,238
+2019,2019 Volkswagen e-Golf,"Automatic (A1), Electricity",119,126,111,31895.0,38895.0,125
+2019,2019 Tesla Model 3 Long Range AWD,"Automatic (A1), Electricity",116,120,112,,,310
+2019,2019 Tesla Model 3 Long Range AWD Performance,"Automatic (A1), Electricity",116,120,112,56990.0,56990.0,310
+2019,2019 Honda Clarity EV,"Automatic (A1), Electricity",114,126,103,36620.0,36620.0,89
+2019,2019 BMW i3,"Automatic (A1), Electricity",113,124,102,,,153
+2019,2019 BMW i3s,"Automatic (A1), Electricity",113,124,102,,,153
+2019,2019 Nissan Leaf (40 kW-hr battery pack),"Automatic (A1), Electricity",112,124,99,29990.0,36200.0,150
+2019,2019 Kia Niro Electric,"Automatic (A1), Electricity",112,123,102,38500.0,44000.0,239
+2019,2019 Fiat 500e,"Automatic (A1), Electricity",112,121,103,33210.0,33210.0,84
+2019,2019 Tesla Model S Long Range,"Automatic (A1), Electricity",111,115,107,79990.0,79990.0,370
+2019,2019 Tesla Model S Standard Range,"Automatic (A1), Electricity",109,113,105,75000.0,75000.0,285
+2019,2019 smart EQ fortwo (coupe),"Automatic (A1), Electricity",108,124,94,23900.0,26740.0,58
+2019,2019 Kia Soul Electric,"Automatic (A1), Electricity",108,124,93,33950.0,35950.0,111
+2019,2019 Nissan Leaf (62 kW-hr battery pack),"Automatic (A1), Electricity",108,118,97,36550.0,36550.0,226
+2019,2019 Nissan Leaf SV/SL (62 kW-hr battery pack),"Automatic (A1), Electricity",104,114,94,38510.0,42550.0,215
+2019,2019 Tesla Model S Performance (19in Wheels),"Automatic (A1), Electricity",104,104,104,99990.0,99990.0,345
+2019,2019 Tesla Model S 75D,"Automatic (A1), Electricity",103,102,105,76000.0,76000.0,259
+2019,2019 smart EQ fortwo (convertible),"Automatic (A1), Electricity",102,112,91,,,57
+2019,2019 Tesla Model S 100D,"Automatic (A1), Electricity",102,101,102,,,335
+2019,2019 Tesla Model S P100D,"Automatic (A1), Electricity",98,92,105,133000.0,133000.0,315
+2019,2019 Tesla Model S Performance (21in Wheels),"Automatic (A1), Electricity",97,98,96,,,325
+2019,2019 Tesla Model X Long Range,"Automatic (A1), Electricity",96,99,93,84990.0,84990.0,325
+2019,2019 Tesla Model X 75D,"Automatic (A1), Electricity",93,91,95,82000.0,82000.0,238
+2019,2019 Tesla Model X 100D,"Automatic (A1), Electricity",87,86,89,97000.0,97000.0,295
+2019,2019 Tesla Model X P100D,"Automatic (A1), Electricity",85,83,89,138000.0,138000.0,289
+2019,2019 Tesla Model X Performance (22in Wheels),"Automatic (A1), Electricity",79,80,77,104990.0,104990.0,270
+2019,2019 Jaguar I-Pace,"Automatic (A1), Electricity",76,80,72,69500.0,85900.0,234
+2019,2019 Audi e-tron,"Automatic (A1), Electricity",74,74,73,74800.0,81800.0,204
+2020,2020 Tesla Model 3 Standard Range Plus,"Automatic (A1), Electricity",141,148,132,37990.0,37990.0,250
+2020,2020 Hyundai Ioniq Electric,"Automatic (A1), Electricity",133,145,121,33045.0,38615.0,170
+2020,2020 Tesla Model 3 Standard Range,"Automatic (A1), Electricity",131,138,124,,,220
+2020,2020 Tesla Model 3 Long Range,"Automatic (A1), Electricity",130,136,123,,,330
+2020,2020 Tesla Model 3 Mid Range,"Automatic (A1), Electricity",123,128,117,,,264
+2020,2020 Tesla Model Y Performance AWD,"Automatic (A1), Electricity",121,129,112,59990.0,59990.0,315
+2020,2020 Tesla Model Y Long Range AWD,"Automatic (A1), Electricity",121,127,114,48000.0,49990.0,316
+2020,2020 Tesla Model 3 Long Range AWD,"Automatic (A1), Electricity",121,124,116,46990.0,46990.0,322
+2020,2020 Tesla Model 3 Long Range Performance AWD (18in),"Automatic (A1), Electricity",121,124,116,54990.0,54990.0,322
+2020,2020 Hyundai Kona Electric,"Automatic (A1), Electricity",120,132,108,37190.0,45400.0,258
+2020,2020 Chevrolet Bolt EV,"Automatic (variable gear ratios), Electricity",118,127,108,36620.0,41020.0,259
+2020,2020 Tesla Model S Long Range Plus,"Automatic (A1), Electricity",117,121,112,69420.0,69420.0,402
+2020,2020 Tesla Model 3 Long Range Performance AWD (19in),"Automatic (A1), Electricity",116,119,112,54990.0,54990.0,304
+2020,2020 Kia Soul Electric,"Automatic (A1), Electricity",114,127,101,,,243
+2020,2020 BMW i3,"Automatic (A1), Electricity",113,124,102,44450.0,48300.0,153
+2020,2020 BMW i3s,"Automatic (A1), Electricity",113,124,102,47650.0,51500.0,153
+2020,2020 Tesla Model 3 Long Range Performance AWD (20in),"Automatic (A1), Electricity",113,118,107,54990.0,54990.0,299
+2020,2020 Kia Niro Electric,"Automatic (A1), Electricity",112,123,102,39090.0,44590.0,239
+2020,2020 Nissan Leaf (40 kW-hr battery pack),"Automatic (A1), Electricity",111,123,99,31600.0,31600.0,149
+2020,2020 Tesla Model Y Performance AWD (21in Wheels),"Automatic (A1), Electricity",111,116,106,,,291
+2020,2020 Tesla Model S Long Range,"Automatic (A1), Electricity",111,115,107,79990.0,79990.0,373
+2020,2020 Tesla Model S Standard Range,"Automatic (A1), Electricity",109,113,105,,,287
+2020,2020 Nissan Leaf (62 kW-hr battery pack),"Automatic (A1), Electricity",108,118,97,38200.0,38200.0,226
+2020,2020 MINI Cooper SE Hardtop 2 door,"Automatic (A1), Electricity",108,115,100,29900.0,29900.0,110
+2020,2020 Tesla Model X Long Range Plus,"Automatic (A1), Electricity",105,108,101,79990.0,79990.0,351
+2020,2020 Nissan Leaf SV/SL (62 kW-hr battery pack),"Automatic (A1), Electricity",104,114,94,34190.0,43900.0,215
+2020,2020 Tesla Model S Performance (19in Wheels),"Automatic (A1), Electricity",104,104,104,91990.0,91990.0,348
+2020,2020 Tesla Model X Standard Range,"Automatic (A1), Electricity",101,105,98,,,258
+2020,2020 Tesla Model S Performance (21in Wheels),"Automatic (A1), Electricity",97,98,96,91990.0,91990.0,326
+2020,2020 Tesla Model X Long Range,"Automatic (A1), Electricity",96,99,93,84990.0,84990.0,328
+2020,2020 Tesla Model X Performance (20in Wheels),"Automatic (A1), Electricity",90,90,89,99990.0,99990.0,305
+2020,2020 Tesla Model X Performance (22in Wheels),"Automatic (A1), Electricity",79,80,77,99990.0,99990.0,272
+2020,2020 Audi e-tron Sportback,"Automatic (A1), Electricity",77,76,78,77400.0,83400.0,218
+2020,2020 Jaguar I-Pace,"Automatic (A1), Electricity",76,80,72,69850.0,80900.0,234
+2020,2020 BYD e6,"Automatic (A1), Electricity",72,73,71,,,187
+2020,2020 Porsche Taycan 4S Perf Battery Plus,"Automatic (A2), Electricity",69,68,71,103800.0,103800.0,203
+2020,2020 Porsche Taycan Turbo,"Automatic (A2), Electricity",69,68,71,150900.0,150900.0,201
+2020,2020 Porsche Taycan Turbo S,"Automatic (A2), Electricity",68,67,68,185000.0,185000.0,192
+2021,2021 Tesla Model 3 Standard Range Plus RWD,"Automatic (A1), Electricity",142,150,133,41990.0,41990.0,263
+2021,2021 Tesla Model 3 Long Range AWD,"Automatic (A1), Electricity",134,141,127,50990.0,50990.0,353
+2021,2021 Hyundai Ioniq Electric,"Automatic (A1), Electricity",133,145,121,33245.0,38815.0,170
+2021,2021 Tesla Model Y Standard Range RWD,"Automatic (A1), Electricity",129,140,119,39990.0,39990.0,244
+2021,2021 Tesla Model Y Long Range AWD,"Automatic (A1), Electricity",125,131,117,57990.0,57990.0,326
+2021,2021 Hyundai Kona Electric,"Automatic (A1), Electricity",120,132,108,37390.0,45600.0,258
+2021,2021 Tesla Model S Long Range,"Automatic (A1), Electricity",120,124,115,89990.0,89990.0,405
+2021,2021 Chevrolet Bolt EV,"Automatic (variable gear ratios), Electricity",118,127,108,36500.0,41700.0,259
+2021,2021 Kandi K27,"Automatic (A1), Electricity",114,127,102,,,59
+2021,2021 BMW i3,"Automatic (A1), Electricity",113,124,102,44450.0,44450.0,153
+2021,2021 BMW i3s,"Automatic (A1), Electricity",113,124,102,47650.0,47650.0,153
+2021,2021 Tesla Model 3 Performance AWD,"Automatic (A1), Electricity",113,118,107,58990.0,58990.0,315
+2021,2021 Kia Niro Electric,"Automatic (A1), Electricity",112,123,102,39090.0,44650.0,239
+2021,2021 Nissan Leaf (40 kW-hr battery pack),"Automatic (A1), Electricity",111,123,99,,,149
+2021,2021 Tesla Model Y Performance AWD,"Automatic (A1), Electricity",111,115,106,62990.0,62990.0,303
+2021,2021 Tesla Model S Performance (19in Wheels),"Automatic (A1), Electricity",110,114,106,,,387
+2021,2021 Nissan Leaf (62 kW-hr battery pack),"Automatic (A1), Electricity",108,118,97,38270.0,38270.0,226
+2021,2021 MINI Cooper SE Hardtop 2 door,"Automatic (A1), Electricity",108,115,100,,,110
+2021,2021 Tesla Model X Long Range Plus,"Automatic (A1), Electricity",105,109,101,99990.0,99990.0,371
+2021,2021 Nissan Leaf SV/SL (62 kW-hr battery pack),"Automatic (A1), Electricity",104,114,94,34960.0,43970.0,215
+2021,2021 Ford Mustang Mach-E RWD California Route 1,"Automatic (A1), Electricity",101,108,94,,,305
+2021,2021 Tesla Model S Plaid (21inch wheels),"Automatic (A1), Electricity",101,102,99,129990.0,129990.0,348
+2021,2021 Ford Mustang Mach-E RWD,"Automatic (A1), Electricity",100,105,93,42895.0,47600.0,230
+2021,2021 Volkswagen ID.4 Pro,"Automatic (A1), Electricity",99,107,91,39995.0,39995.0,260
+2021,2021 Ford Mustang Mach-E RWD Extended,"Automatic (A1), Electricity",97,104,90,,,300
+2021,2021 Volkswagen ID.4 1st,"Automatic (A1), Electricity",97,104,89,43995.0,43995.0,250
+2021,2021 Volkswagen ID.4 Pro S,"Automatic (A1), Electricity",97,104,89,44495.0,44495.0,250
+2021,2021 Volkswagen ID.4 AWD Pro,"Automatic (A1), Electricity",97,102,90,43675.0,43675.0,249
+2021,2021 Tesla Model X Performance (20in Wheels),"Automatic (A1), Electricity",97,100,95,,,341
+2021,2021 Tesla Model S Performance (21in Wheels),"Automatic (A1), Electricity",96,98,93,,,334
+2021,2021 Ford Mustang Mach-E AWD,"Automatic (A1), Electricity",93,100,86,45595.0,50300.0,211
+2021,2021 Volkswagen ID.4 AWD Pro S,"Automatic (A1), Electricity",93,98,88,48175.0,48175.0,240
+2021,2021 Polestar 2,"Automatic (A1), Electricity",92,96,88,,,233
+2021,2021 Ford Mustang Mach-E AWD Extended,"Automatic (A1), Electricity",90,96,84,58900.0,59900.0,270
+2021,2021 Tesla Model X Performance (22in Wheels),"Automatic (A1), Electricity",86,89,83,,,300
+2021,2021 Ford Mustang Mach-E GT,"Automatic (A1), Electricity",84,90,77,59900.0,59900.0,270
+2021,2021 Ford Mustang Mach-E GT Performance,"Automatic (A1), Electricity",82,88,75,59900.0,59900.0,260
+2021,2021 Volvo XC40 AWD BEV,"Automatic (A1), Electricity",79,85,72,,,208
+2021,2021 Porsche Taycan 4S Perf Battery,"Automatic (A2), Electricity",79,79,80,103800.0,103800.0,199
+2021,2021 Porsche Taycan Perf Battery,"Automatic (A2), Electricity",79,76,84,79900.0,79900.0,200
+2021,2021 Audi e-tron,"Automatic (A1), Electricity",78,78,77,65900.0,79100.0,222
+2021,2021 Audi e-tron Sportback,"Automatic (A1), Electricity",77,76,78,69100.0,82300.0,218
+2021,2021 Porsche Taycan 4S Perf Battery Plus,"Automatic (A2), Electricity",77,75,81,103800.0,103800.0,227
+2021,2021 Jaguar I-Pace EV400,"Automatic (A1), Electricity",76,80,72,,,234
+2021,2021 Porsche Taycan 4 Cross Turismo,"Automatic (A2), Electricity",76,76,77,90900.0,90900.0,215
+2021,2021 Porsche Taycan 4S Cross Turismo,"Automatic (A2), Electricity",75,75,75,110300.0,110300.0,215
+2021,2021 Porsche Taycan Perf Battery Plus,"Automatic (A2), Electricity",75,71,80,82700.0,82700.0,225
+2021,2021 Porsche Taycan Turbo S Cross Turismo,"Automatic (A2), Electricity",73,74,73,187600.0,187600.0,202
+2021,2021 Porsche Taycan Turbo,"Automatic (A2), Electricity",73,71,75,150900.0,150900.0,212
+2021,2021 Porsche Taycan Turbo Cross Turismo,"Automatic (A2), Electricity",72,72,72,153500.0,153500.0,204
+2021,2021 Porsche Taycan Turbo S,"Automatic (A2), Electricity",70,69,71,185000.0,185000.0,201
+2022,2022 Tesla Model 3 RWD,"Automatic (A1), Electricity",132,138,126,46990.0,46990.0,272
+2022,2022 Tesla Model 3 Long Range AWD,"Automatic (A1), Electricity",131,134,126,57990.0,57990.0,358
+2022,2022 Lucid Air G Touring AWD w/19 inch wheels,"Automatic (A1), Electricity",131,130,132,95000.0,95000.0,516
+2022,2022 Tesla Model Y RWD,"Automatic (A1), Electricity",129,140,119,,,244
+2022,2022 Lucid Air Dream R AWD w/19 inch wheels,"Automatic (A1), Electricity",125,126,125,,,520
+2022,2022 Tesla Model Y AWD,"Automatic (A1), Electricity",123,129,116,,,279
+2022,2022 Tesla Model Y Long Range AWD,"Automatic (A1), Electricity",122,127,117,65990.0,65990.0,330
+2022,2022 Lucid Air G Touring AWD w/21 inch wheels,"Automatic (A1), Electricity",121,121,122,,,469
+2022,2022 Hyundai Kona Electric,"Automatic (A1), Electricity",120,132,108,34000.0,42500.0,258
+2022,2022 Chevrolet Bolt EV,"Automatic (variable gear ratios), Electricity",120,131,109,31000.0,34200.0,259
+2022,2022 Tesla Model S,"Automatic (A1), Electricity",120,124,115,104990.0,104990.0,405
+2022,2022 Kia EV6 RWD (Standard Range),"Automatic (A1), Electricity",117,136,100,,,232
+2022,2022 Kia EV6 RWD (Long Range),"Automatic (A1), Electricity",117,134,101,,,310
+2022,2022 Tesla Model S Plaid (19 inch wheels),"Automatic (A1), Electricity",116,119,112,135990.0,135990.0,396
+2022,2022 Lucid Air Dream P AWD w/19 inch wheels,"Automatic (A1), Electricity",116,117,114,,,471
+2022,2022 Lucid Air Dream R AWD w/21 inch wheels,"Automatic (A1), Electricity",116,115,117,,,481
+2022,2022 Chevrolet Bolt EUV,"Automatic (variable gear ratios), Electricity",115,125,104,33000.0,37500.0,247
+2022,2022 Hyundai Ioniq 5 RWD (Long Range),"Automatic (A1), Electricity",114,132,98,51100.0,51100.0,303
+2022,2022 Tesla Model 3 Performance AWD,"Automatic (A1), Electricity",113,118,107,62990.0,62990.0,315
+2022,2022 Kia Niro Electric,"Automatic (A1), Electricity",112,123,102,39090.0,44650.0,239
+2022,2022 Nissan Leaf (40 kW-hr battery pack),"Automatic (A1), Electricity",111,123,99,27400.0,28800.0,149
+2022,2022 Tesla Model Y Performance AWD,"Automatic (A1), Electricity",111,115,106,69990.0,69990.0,303
+2022,2022 Lucid Air Dream P AWD w/21 inch wheels,"Automatic (A1), Electricity",111,110,111,,,451
+2022,2022 Hyundai Ioniq 5 RWD (Standard Range),"Automatic (A1), Electricity",110,127,94,39950.0,46250.0,220
+2022,2022 MINI Cooper SE Hardtop 2 door,"Automatic (A1), Electricity",110,119,100,,,114
+2022,2022 BMW i4 eDrive40 Gran Coupe (18 inch wheels),"Automatic (A1), Electricity",109,109,108,55400.0,55400.0,301
+2022,2022 Nissan Leaf (62 kW-hr battery pack),"Automatic (A1), Electricity",108,118,97,32400.0,37400.0,226
+2022,2022 Volkswagen ID.4 Pro,"Automatic (A1), Electricity",107,116,98,41230.0,41230.0,275
+2022,2022 Polestar 2 Single Motor,"Automatic (A1), Electricity",107,113,100,,,270
+2022,2022 Kia EV6 AWD (Long Range),"Automatic (A1), Electricity",105,116,94,,,274
+2022,2022 Nissan Leaf SV/SL (62 kW-hr battery pack),"Automatic (A1), Electricity",104,114,94,28800.0,37400.0,215
+2022,2022 Ford Mustang Mach-E RWD,"Automatic (A1), Electricity",103,110,96,43895.0,49100.0,247
+2022,2022 Volkswagen ID.4 Pro S,"Automatic (A1), Electricity",102,110,93,45730.0,45730.0,262
+2022,2022 Tesla Model X,"Automatic (A1), Electricity",102,107,97,120990.0,120990.0,348
+2022,2022 Ford Mustang Mach-E CAL RT 1 ER RWD,"Automatic (A1), Electricity",101,108,94,52775.0,52775.0,314
+2022,2022 Volkswagen ID.4 AWD Pro,"Automatic (A1), Electricity",101,106,96,44910.0,44910.0,251
+2022,2022 Mercedes-Benz EQB 300 4matic,"Automatic (A1), Electricity",101,104,98,54500.0,54500.0,243
+2022,2022 Tesla Model S Plaid (21 inch wheels),"Automatic (A1), Electricity",101,102,99,,,348
+2022,2022 BMW i4 eDrive40 Gran Coupe (19 inch wheels),"Automatic (A1), Electricity",99,100,98,55400.0,55400.0,282
+2022,2022 Hyundai Ioniq 5 AWD (Long Range),"Automatic (A1), Electricity",98,110,87,47500.0,55000.0,256
+2022,2022 Ford Mustang Mach-E CAL RT 1 ER AWD,"Automatic (A1), Electricity",98,105,91,55475.0,55475.0,312
+2022,2022 Tesla Model X Plaid (20 inch wheels),"Automatic (A1), Electricity",98,103,93,138990.0,138990.0,333
+2022,2022 Ford Mustang Mach-E RWD Extended,"Automatic (A1), Electricity",97,104,90,,,303
+2022,2022 Mercedes-Benz EQS 450 Plus,"Automatic (A1), Electricity",97,97,97,102310.0,102310.0,350
+2022,2022 Mercedes-Benz EQB 350 4matic,"Automatic (A1), Electricity",96,98,93,58050.0,58050.0,227
+2022,2022 BMW i4 M50 Gran Coupe (19 inch wheels),"Automatic (A1), Electricity",96,94,98,65900.0,65900.0,270
+2022,2022 Volkswagen ID.4 AWD Pro S,"Automatic (A1), Electricity",95,100,90,49410.0,49410.0,245
+2022,2022 Audi Q4 e-tron quattro,"Automatic (A1), Electricity",95,100,89,49900.0,57500.0,241
+2022,2022 Audi Q4 e-tron Sportback quattro,"Automatic (A1), Electricity",95,100,89,52700.0,60300.0,241
+2022,2022 Mercedes-Benz EQS 580 4matic,"Automatic (A1), Electricity",95,92,99,119110.0,119110.0,340
+2022,2022 Ford Mustang Mach-E AWD,"Automatic (A1), Electricity",93,99,86,46595.0,51800.0,224
+2022,2022 Mazda MX-30,"Automatic (A1), Electricity",92,98,85,33470.0,36480.0,100
+2022,2022 Ford Mustang Mach-E AWD Extended,"Automatic (A1), Electricity",91,97,84,,,277
+2022,2022 Tesla Model X Plaid (22 inch wheels),"Automatic (A1), Electricity",91,94,88,,,311
+2022,2022 Polestar 2 Dual Motor,"Automatic (A1), Electricity",89,94,84,49900.0,49900.0,249
+2022,2022 Volvo C40 Recharge twin,"Automatic (A1), Electricity",87,94,80,58750.0,58750.0,226
+2022,2022 BMW iX xDrive50 (20 inch wheels),"Automatic (A1), Electricity",86,86,87,83200.0,83200.0,324
+2022,2022 BMW iX xDrive50 (22 inch wheels),"Automatic (A1), Electricity",86,86,85,83200.0,83200.0,315
+2022,2022 Volvo XC40 Recharge twin,"Automatic (A1), Electricity",85,92,79,51700.0,58150.0,223
+2022,2022 Ford Mustang Mach-E GT,"Automatic (A1), Electricity",84,90,77,61995.0,61995.0,270
+2022,2022 Porsche Taycan GTS,"Automatic (A2), Electricity",83,83,82,131400.0,131400.0,246
+2022,2022 BMW iX xDrive50 (21 inch wheels),"Automatic (A1), Electricity",83,82,84,83200.0,83200.0,305
+2022,2022 Ford Mustang Mach-E GT Performance,"Automatic (A1), Electricity",82,88,75,,,260
+2022,2022 Audi e-tron GT,"Automatic (A2), Electricity",82,81,83,102400.0,109600.0,238
+2022,2022 Audi RS e-tron GT,"Automatic (A2), Electricity",81,79,82,142400.0,142400.0,232
+2022,2022 Porsche Taycan GTS ST,"Automatic (A2), Electricity",80,80,80,133300.0,133300.0,233
+2022,2022 BMW i4 M50 Gran Coupe (20 inch wheels),"Automatic (A1), Electricity",80,79,80,65900.0,65900.0,227
+2022,2022 Porsche Taycan 4S Perf Battery,"Automatic (A2), Electricity",79,79,80,103800.0,103800.0,199
+2022,2022 Porsche Taycan Perf Battery,"Automatic (A2), Electricity",79,76,84,82700.0,82700.0,200
+2022,2022 Audi e-tron quattro,"Automatic (A1), Electricity",78,78,77,65900.0,83400.0,222
+2022,2022 Audi e-tron Sportback quattro,"Automatic (A1), Electricity",77,76,78,,,218
+2022,2022 Mercedes-Benz AMG EQS 4matic Plus,"Automatic (A1), Electricity",77,76,78,147500.0,147500.0,277
+2022,2022 Porsche Taycan 4S Perf Battery Plus,"Automatic (A2), Electricity",77,75,81,,,227
+2022,2022 Porsche Taycan 4 Cross Turismo,"Automatic (A2), Electricity",76,76,77,93700.0,93700.0,215
+2022,2022 Porsche Taycan 4S Cross Turismo,"Automatic (A2), Electricity",75,75,75,,,215
+2022,2022 Audi e-tron S Sportback (20 inch wheels),"Automatic (A1), Electricity",75,73,78,,,212
+2022,2022 Porsche Taycan Perf Battery Plus,"Automatic (A2), Electricity",75,71,80,,,225
+2022,2022 Porsche Taycan Turbo S Cross Turismo,"Automatic (A2), Electricity",73,74,73,,,202
+2022,2022 Audi e-tron S (20in wheels),"Automatic (A1), Electricity",73,72,75,84800.0,89800.0,208
+2022,2022 Porsche Taycan Turbo,"Automatic (A2), Electricity",73,71,75,,,212
+2022,2022 Porsche Taycan Turbo Cross Turismo,"Automatic (A2), Electricity",72,72,72,,,204
+2022,2022 Ford F-150 Lightning 4WD Extended Range,"Automatic (A1), Electricity",70,78,63,39974.0,90874.0,320
+2022,2022 Rivian R1T,"Automatic (A1), Electricity",70,74,66,67500.0,73000.0,314
+2022,2022 Porsche Taycan Turbo S,"Automatic (A2), Electricity",70,69,71,,,201
+2022,2022 Rivian R1S,"Automatic (A1), Electricity",69,73,65,72500.0,90000.0,316
+2022,2022 Ford F-150 Lightning 4WD,"Automatic (A1), Electricity",68,76,61,39974.0,90874.0,230
+2022,2022 Ford F-150 Lightning Platinum 4WD,"Automatic (A1), Electricity",66,73,60,39974.0,90874.0,300
+2022,2022 Audi e-tron S Sportback (21/22 inch wheels),"Automatic (A1), Electricity",65,64,66,87400.0,92400.0,185
+2022,2022 Audi e-tron S (21/22 inch wheels),"Automatic (A1), Electricity",63,62,64,,,181
+2023,2023 Hyundai Ioniq 6 Long range RWD (18 inch Wheels),"Automatic (A1), Electricity",140,153,127,45500.0,47700.0,361
+2023,2023 Lucid Air Pure AWD with 19 inch wheels,"Automatic (A1), Electricity",140,141,140,92900.0,92900.0,410
+2023,2023 Lucid Air Touring AWD with 19 inch wheels,"Automatic (A1), Electricity",140,141,140,107400.0,107400.0,425
+2023,2023 Hyundai Ioniq 6 Standard Range RWD,"Automatic (A1), Electricity",135,151,120,41600.0,41600.0,240
+2023,2023 Tesla Model 3 RWD,"Automatic (A1), Electricity",132,138,126,41990.0,41990.0,272
+2023,2023 Tesla Model 3 Long Range AWD,"Automatic (A1), Electricity",131,134,126,,,358
+2023,2023 Lucid Air G Touring XR AWD with 19 inch wheels,"Automatic (A1), Electricity",131,130,132,138000.0,138000.0,516
+2023,2023 Tesla Model Y AWD,"Automatic (A1), Electricity",123,129,116,49990.0,49990.0,279
+2023,2023 Tesla Model Y Long Range AWD,"Automatic (A1), Electricity",122,127,117,52990.0,52990.0,330
+2023,2023 Hyundai Ioniq 6 Long range AWD (18 inch Wheels),"Automatic (A1), Electricity",121,130,111,49000.0,51200.0,316
+2023,2023 Lucid Air G Touring XR AWD with 20 inch wheels,"Automatic (A1), Electricity",121,121,122,,,469
+2023,2023 Lucid Air G Touring XR AWD with 21 inch wheels,"Automatic (A1), Electricity",121,121,122,,,469
+2023,2023 Lucid Air Pure AWD with 20 inch wheels,"Automatic (A1), Electricity",121,121,120,,,384
+2023,2023 Lucid Air Touring AWD with 20 inch wheels,"Automatic (A1), Electricity",121,121,120,,,384
+2023,2023 Lucid Air Touring AWD with 21 inch wheels,"Automatic (A1), Electricity",121,121,120,,,384
+2023,2023 Hyundai Kona Electric,"Automatic (A1), Electricity",120,134,106,33550.0,41550.0,258
+2023,2023 Chevrolet Bolt EV,"Automatic (A1), Electricity",120,131,109,26500.0,29700.0,259
+2023,2023 Tesla Model S,"Automatic (A1), Electricity",120,124,115,84990.0,84990.0,405
+2023,2023 Toyota bZ4X,"Automatic (A1), Electricity",119,131,107,42000.0,42000.0,252
+2023,2023 Kia EV6 Standard Range RWD,"Automatic (A1), Electricity",117,136,100,,,232
+2023,2023 Kia EV6 Long Range RWD,"Automatic (A1), Electricity",117,134,101,,,310
+2023,2023 Hyundai Ioniq 6 Long range RWD (20 inch Wheels),"Automatic (A1), Electricity",117,129,105,45500.0,47700.0,305
+2023,2023 Chevrolet Bolt EUV,"Automatic (A1), Electricity",115,125,104,27800.0,32300.0,247
+2023,2023 Toyota bZ4X LIMITED,"Automatic (A1), Electricity",114,125,103,46700.0,46700.0,242
+2023,2023 Kia Niro Electric,"Automatic (A1), Electricity",113,126,101,39550.0,44550.0,253
+2023,2023 Tesla Model 3 Performance AWD,"Automatic (A1), Electricity",113,118,107,52990.0,52990.0,315
+2023,2023 BMW i4 eDrive35 Gran Coupe (18 inch Wheels),"Automatic (A1), Electricity",113,115,111,51400.0,51400.0,256
+2023,2023 Nissan LEAF,"Automatic (A1), Electricity",111,123,99,28040.0,28040.0,149
+2023,2023 Tesla Model Y Performance AWD,"Automatic (A1), Electricity",111,115,106,56990.0,56990.0,303
+2023,2023 Lucid Air GT P AWD with 21 inch wheels,"Automatic (A1), Electricity",111,110,111,,,446
+2023,2023 MINI Cooper SE Hardtop 2 door,"Automatic (A1), Electricity",110,119,100,29900.0,33900.0,114
+2023,2023 Nissan LEAF SV,"Automatic (A1), Electricity",109,121,98,36040.0,36040.0,212
+2023,2023 Kia EV6 Long Range AWD (19 inch tires),"Automatic (A1), Electricity",109,120,98,,,282
+2023,2023 BMW i4 eDrive40 Gran Coupe (18 inch wheels),"Automatic (A1), Electricity",109,109,108,55900.0,55900.0,301
+2023,2023 Volkswagen ID.4,"Automatic (A1), Electricity",107,115,99,38995.0,38995.0,209
+2023,2023 Volkswagen ID.4 S,"Automatic (A1), Electricity",107,115,99,43995.0,43995.0,209
+2023,2023 Lexus RZ 450e AWD (18 inch Wheels),"Automatic (A1), Electricity",107,115,98,,,220
+2023,2023 Volkswagen ID.4 Pro,"Automatic (A1), Electricity",107,115,98,43995.0,43995.0,275
+2023,2023 Volkswagen ID.4 Pro S,"Automatic (A1), Electricity",107,115,98,48995.0,48995.0,275
+2023,2023 Polestar 2 Single Motor,"Automatic (A1), Electricity",107,113,100,48400.0,48400.0,270
+2023,2023 BMW i4 eDrive35 Gran Coupe (19 inch Wheels),"Automatic (A1), Electricity",105,107,102,51400.0,51400.0,235
+2023,2023 Subaru Solterra AWD,"Automatic (A1), Electricity",104,114,94,44995.0,44995.0,228
+2023,2023 Toyota bZ4X AWD,"Automatic (A1), Electricity",104,114,94,44080.0,44080.0,228
+2023,2023 Audi Q4 e-tron,"Automatic (A1), Electricity",103,112,94,49800.0,56000.0,265
+2023,2023 Nissan ARIYA VENTURE Plus FWD 87kWh,"Automatic (A1), Electricity",103,111,95,47190.0,47190.0,304
+2023,2023 Hyundai Ioniq 6 Long range AWD (20 inch Wheels),"Automatic (A1), Electricity",103,111,94,49000.0,51200.0,270
+2023,2023 Ford Mustang Mach-E RWD,"Automatic (A1), Electricity",103,110,96,42995.0,46995.0,247
+2023,2023 Mercedes-Benz EQS 450 4Matic,"Automatic (A1), Electricity",103,101,105,104400.0,147550.0,340
+2023,2023 Toyota bZ4X LIMITED AWD,"Automatic (A1), Electricity",102,112,92,48780.0,48780.0,222
+2023,2023 Subaru Solterra Limited/Touring AWD,"Automatic (A1), Electricity",102,111,93,48495.0,51995.0,222
+2023,2023 Tesla Model X,"Automatic (A1), Electricity",102,107,97,94990.0,94990.0,348
+2023,2023 Nissan ARIYA ENGAGE FWD 63kWh,"Automatic (A1), Electricity",101,109,94,43190.0,43190.0,216
+2023,2023 Ford Mustang Mach-E RWD LFP,"Automatic (A1), Electricity",101,107,95,,,250
+2023,2023 Polestar 2 Dual Motor,"Automatic (A1), Electricity",100,105,96,51900.0,51900.0,260
+2023,2023 Polestar 2 Dual Motor Perf Pack,"Automatic (A1), Electricity",100,105,96,,,260
+2023,2023 Ford Mustang Mach-E RWD Extended,"Automatic (A1), Electricity",99,105,92,,,310
+2023,2023 Volkswagen ID.4 AWD Pro,"Automatic (A1), Electricity",99,104,93,47795.0,47795.0,255
+2023,2023 Volkswagen ID.4 AWD Pro S,"Automatic (A1), Electricity",99,104,93,52795.0,52795.0,255
+2023,2023 BMW i4 eDrive40 Gran Coupe (19 inch Wheels),"Automatic (A1), Electricity",99,100,98,55900.0,55900.0,282
+2023,2023 Ford MUSTANG MACH-E CAL RT 1 ER AWD,"Automatic (A1), Electricity",98,105,91,56995.0,56995.0,312
+2023,2023 Nissan ARIYA EVO Plus/EMP Plus/PRM FWD 87kWh,"Automatic (A1), Electricity",98,105,91,50190.0,60190.0,289
+2023,2023 Tesla Model X Plaid (20 inch wheels),"Automatic (A1), Electricity",98,103,93,104990.0,104990.0,333
+2023,2023 Genesis Electrified G80,"Automatic (A1), Electricity",97,105,89,79825.0,79825.0,282
+2023,2023 Kia EV6 Long Range AWD (20 inch tires),"Automatic (A1), Electricity",96,106,86,,,252
+2023,2023 BMW i4 M50 Gran Coupe (19 inch wheels),"Automatic (A1), Electricity",96,94,98,67300.0,67300.0,271
+2023,2023 Genesis GV60 ADVANCE,"Automatic (A1), Electricity",95,103,86,59290.0,59290.0,248
+2023,2023 Lexus RZ 450e AWD (20 inch Wheels),"Automatic (A1), Electricity",95,102,87,,,196
+2023,2023 Nissan ARIYA ENGAGE e-4ORCE 63kWh,"Automatic (A1), Electricity",95,101,89,,,205
+2023,2023 Audi Q4 e-tron Sportback,"Automatic (A1), Electricity",95,100,89,58200.0,65900.0,242
+2023,2023 Polestar 2 BST edition,"Automatic (A1), Electricity",95,98,91,,,247
+2023,2023 Ford Mustang Mach-E AWD,"Automatic (A1), Electricity",93,99,86,45995.0,49995.0,224
+2023,2023 Audi Q4 e-tron quattro,"Automatic (A1), Electricity",93,97,87,55200.0,62900.0,236
+2023,2023 Fisker Ocean Extreme One,"Automatic (A1), Electricity",92,99,84,,,360
+2023,2023 Mazda MX-30,"Automatic (A1), Electricity",92,98,85,,,100
+2023,2023 Nissan ARIYA ENG Plus/EVO Plus e-4ORCE 87kWh,"Automatic (A1), Electricity",92,97,86,,,272
+2023,2023 Ford Mustang Mach-E AWD Extended,"Automatic (A1), Electricity",92,97,85,,,290
+2023,2023 Tesla Model X Plaid (22 inch wheels),"Automatic (A1), Electricity",91,94,88,,,311
+2023,2023 Genesis GV60 PERFORMANCE,"Automatic (A1), Electricity",90,97,82,68290.0,68290.0,235
+2023,2023 Nissan ARIYA PLAT Plus e-4ORCE 87kWh 19,"Automatic (A1), Electricity",90,93,87,,,267
+2023,2023 Cadillac LYRIQ,"Automatic (A1), Electricity",89,97,82,61795.0,61795.0,312
+2023,2023 Cadillac LYRIQ AWD,"Automatic (A1), Electricity",89,96,81,63795.0,63795.0,307
+2023,2023 BMW i7 xDrive60 Sedan (19 inch wheels),"Automatic (A1), Electricity",89,87,92,119300.0,119300.0,318
+2023,2023 Volvo C40 Recharge twin,"Automatic (A1), Electricity",87,94,80,55300.0,60100.0,226
+2023,2023 Vinfast VF 8 Eco,"Automatic (A1), Electricity",87,89,85,,,207
+2023,2023 Nissan ARIYA PLAT Plus e-4ORCE 87kWh 20,"Automatic (A1), Electricity",87,89,84,,,257
+2023,2023 BMW i7 xDrive60 Sedan (21 inch wheels),"Automatic (A1), Electricity",87,85,89,119300.0,119300.0,308
+2023,2023 BMW iX xDrive50 (20 inch wheels),"Automatic (A1), Electricity",86,86,87,,,324
+2023,2023 BMW iX xDrive50 (22 inch wheels),"Automatic (A1), Electricity",86,86,85,,,315
+2023,2023 Volvo XC40 Recharge twin,"Automatic (A1), Electricity",85,92,79,53550.0,59500.0,223
+2023,2023 Jaguar I-Pace EV400 (20 inch tires),"Automatic (A1), Electricity",85,89,82,,,246
+2023,2023 Mercedes-Benz EQS 450 Plus (SUV),"Automatic (A1), Electricity",85,87,83,,,305
+2023,2023 Ford Mustang Mach-E GT,"Automatic (A1), Electricity",84,90,77,59995.0,59995.0,270
+2023,2023 Porsche Taycan GTS,"Automatic (A2), Electricity",83,83,82,134100.0,134100.0,246
+2023,2023 BMW iX xDrive50 (21 inch wheels),"Automatic (A1), Electricity",83,82,84,,,305
+2023,2023 BMW i7 xDrive60 Sedan (20 inch wheels),"Automatic (A1), Electricity",83,81,85,119300.0,119300.0,296
+2023,2023 Porsche Taycan Performance Battery,"Automatic (A2), Electricity",83,79,88,86700.0,86700.0,208
+2023,2023 Ford Mustang Mach-E GT Performance,"Automatic (A1), Electricity",82,90,77,,,260
+2023,2023 Porsche Taycan 4S Performance Battery,"Automatic (A2), Electricity",82,82,82,106500.0,106500.0,206
+2023,2023 Audi e-tron GT,"Automatic (A2), Electricity",82,81,83,104900.0,111300.0,238
+2023,2023 Porsche Taycan Perf Battery Plus,"Automatic (A2), Electricity",82,78,88,,,242
+2023,2023 Porsche Taycan Turbo,"Automatic (A2), Electricity",81,81,80,153300.0,153300.0,238
+2023,2023 Audi RS e-tron GT,"Automatic (A2), Electricity",81,79,82,143900.0,143900.0,232
+2023,2023 Vinfast VF 8 Plus,"Automatic (A1), Electricity",80,82,78,,,191
+2023,2023 Porsche Taycan 4 Cross Turismo,"Automatic (A2), Electricity",80,80,80,97700.0,113000.0,235
+2023,2023 Porsche Taycan GTS Sport Turismo,"Automatic (A2), Electricity",80,80,80,136000.0,136000.0,233
+2023,2023 Porsche Taycan 4S Perf Battery Plus,"Automatic (A2), Electricity",80,79,81,,,235
+2023,2023 BMW i4 M50 Gran Coupe (20 inch wheels),"Automatic (A1), Electricity",80,79,80,67300.0,67300.0,227
+2023,2023 Kia EV6 AWD GT,"Automatic (A1), Electricity",79,85,74,52900.0,61600.0,206
+2023,2023 Porsche Taycan Turbo Cross Turismo,"Automatic (A2), Electricity",79,80,78,155900.0,155900.0,233
+2023,2023 Audi e-tron quattro,"Automatic (A2), Electricity",79,78,79,70800.0,86400.0,226
+2023,2023 Rivian R1S 21 inch Dual Large,"Automatic (A1), Electricity",78,82,74,,,352
+2023,2023 Rivian R1S 21 inch Performance Dual Large,"Automatic (A1), Electricity",78,82,74,,,352
+2023,2023 Rivian R1T 21 inch Dual Large,"Automatic (A1), Electricity",78,82,74,,,352
+2023,2023 Rivian R1T 21 inch Performance Dual Large,"Automatic (A1), Electricity",78,82,74,,,352
+2023,2023 Mercedes-Benz EQS 450 4Matic (SUV),"Automatic (A1), Electricity",78,79,77,,,285
+2023,2023 Porsche Taycan 4S Cross Turismo,"Automatic (A2), Electricity",78,78,78,,,230
+2023,2023 Audi e-tron Sportback quattro,"Automatic (A2), Electricity",78,77,80,74000.0,89300.0,225
+2023,2023 BMW iX M60 (22 inch wheels),"Automatic (A1), Electricity",78,77,80,108900.0,108900.0,274
+2023,2023 Mercedes-Benz EQS 580 4Matic (SUV),"Automatic (A1), Electricity",77,79,74,,,285
+2023,2023 BMW iX M60 (21 inch wheels),"Automatic (A1), Electricity",77,76,80,108900.0,108900.0,288
+2023,2023 Rivian R1T 22 inch Dual Large,"Automatic (A1), Electricity",76,80,71,,,341
+2023,2023 Rivian R1T 22 inch Performance Dual Large,"Automatic (A1), Electricity",76,80,71,,,341
+2023,2023 Jaguar I-Pace EV400 (22 inch tires),"Automatic (A1), Electricity",76,79,72,,,217
+2023,2023 Rivian R1S 22 inch Dual Large,"Automatic (A1), Electricity",75,80,71,,,341
+2023,2023 Rivian R1S 22 inch Performance Dual Large,"Automatic (A1), Electricity",75,80,71,,,341
+2023,2023 Porsche Taycan Turbo S,"Automatic (A2), Electricity",75,76,74,187400.0,187400.0,222
+2023,2023 Porsche Taycan Turbo S Cross Turismo,"Automatic (A2), Electricity",75,76,74,190000.0,190000.0,222
+2023,2023 Audi e-tron S Sportback (20 inch wheels),"Automatic (A1), Electricity",75,73,78,90800.0,97900.0,212
+2023,2023 Rivian R1T (21 inch wheels),"Automatic (A1), Electricity",73,76,69,,,328
+2023,2023 Audi e-tron S (20 inch wheels),"Automatic (A1), Electricity",73,72,75,88200.0,95300.0,208
+2023,2023 Rivian R1S (21 inch wheels),"Automatic (A1), Electricity",71,75,66,,,321
+2023,2023 Ford F-150 Lightning 4WD Extended Range,"Automatic (A1), Electricity",70,78,63,,,320
+2023,2023 Ford F-150 Lightning 4WD,"Automatic (A1), Electricity",68,76,61,,,240
+2023,2023 Rivian R1S (22 inch wheels),"Automatic (A1), Electricity",68,73,63,,,303
+2023,2023 Rivian R1T (22 inch wheels),"Automatic (A1), Electricity",68,73,63,,,303
+2023,2023 Rivian R1S 20 inch All-Terrain Dual Large,"Automatic (A1), Electricity",68,72,64,,,307
+2023,2023 Rivian R1S 20 inch All-Terrain Performance Dual Large,"Automatic (A1), Electricity",68,72,64,,,307
+2023,2023 Ford F-150 Lightning Platinum 4WD,"Automatic (A1), Electricity",66,73,60,96874.0,96874.0,300
+2023,2023 Audi e-tron S Sportback (21/22 inch wheels),"Automatic (A1), Electricity",65,64,66,90800.0,97900.0,185
+2023,2023 Rivian R1S (20 inch wheels),"Automatic (A1), Electricity",64,69,60,78000.0,90000.0,289
+2023,2023 Rivian R1T (20 inch wheels),"Automatic (A1), Electricity",64,69,60,73000.0,85000.0,289
+2023,2023 Rivian R1S 20 inch All-Terrain,"Automatic (A1), Electricity",63,65,60,,,274
+2023,2023 Audi e-tron S (21/22 inch wheels),"Automatic (A1), Electricity",63,62,64,88200.0,95300.0,181
+2023,2023 Lordstown Endurance,"Automatic (A1), Electricity",48,49,46,,,174
